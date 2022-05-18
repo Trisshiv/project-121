@@ -1,0 +1,81 @@
+body {
+    background-color: pink;
+    font-family: serif;
+    text-align: center;
+}
+
+#line {
+    color: red;
+}
+
+#lens {
+    font-size: 20px;
+    font-family: serif;
+    color: black;
+}
+
+#log {
+    height: 125px;
+}
+
+#p1 {
+    font-size: 20px;
+    color: red;
+}
+
+#btn_pre {
+    font-family: 'Space Mono', monospace;
+    height: 40px;
+}
+
+.test_image_and_result {
+    background-color: grey;
+    color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#bot {
+    height: 300px;
+    width: 400px;
+}
+
+#lamp {
+    height: 350px;
+    width: 300px;
+}
+
+#nerf {
+    height: 400px;
+    width: 550px;
+}
+
+#pot {
+    height: 350px;
+    width: 300px;
+}
+
+#ted {
+    height: 350px;
+    width: 300px;
+}
+
+b {
+    color: #a4359f;
+}
+
+#w {
+    color: white;
+}
+
+h5 {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 15px ;
+}
+
+span {
+    color: red;
+}
